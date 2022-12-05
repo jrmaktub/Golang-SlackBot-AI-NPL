@@ -1,6 +1,6 @@
 # Go-AI-NPL
 
-AI Bot for NPL using WolframAlpha. Mainly used for Slack
+AI Slack-Bot for NPL using WolframAlpha.
 
 Implemented: 
 - WolframAlpha API
